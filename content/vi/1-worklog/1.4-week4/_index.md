@@ -6,24 +6,25 @@ pre: "<b>1.4. </b>"
 
 ## Mục tiêu Tuần 4:
 
-- Tiếp tục học tập và thực hành các bài Lab trên nền tảng AWS.
-- Tìm hiểu định tuyến và kết nối Internet trong VPC.
-- Thực hành cấu hình Security Group.
+- Tiếp tục thực hành các thành phần mạng AWS.
+- Tìm hiểu cơ chế định tuyến và bảo mật.
+- Chuẩn bị nền tảng triển khai ứng dụng.
 
 ## Các nhiệm vụ thực hiện trong tuần:
 
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
 |---|---|---|---|---|
-| 11/05 | Thực hiện Module 02-Lab03-01.4 - NAT Gateway; tìm hiểu vai trò của NAT Gateway trong việc cung cấp kết nối Internet cho Private Subnet. | 11/05/2026 | 11/05/2026 | Module 02-Lab03-01.4 |
-| 12/05 | Thực hiện Module 02-Lab03-04.3 - Create NAT Gateway; tạo NAT Gateway; kiểm tra khả năng kết nối Internet từ Private Subnet. | 12/05/2026 | 12/05/2026 | Module 02-Lab03-04.3 |
-| 13/05 | Thực hiện Module 02-Lab03-01.2 - Route Table; tìm hiểu nguyên lý định tuyến trong Amazon VPC. | 13/05/2026 | 13/05/2026 | Module 02-Lab03-01.2 |
-| 14/05 | Thực hiện Module 02-Lab03-03.4 - Create Route Table for Outbound Internet; tạo Route Table; cấu hình Route đến Internet Gateway và NAT Gateway. | 14/05/2026 | 14/05/2026 | Module 02-Lab03-03.4 |
-| 15/05 | Thực hiện Module 02-Lab03-02.1 - Security Group; tìm hiểu cơ chế kiểm soát truy cập bằng Security Group. | 15/05/2026 | 15/05/2026 | Module 02-Lab03-02.1 |
-| 16/05 | Thực hiện Module 02-Lab03-03.5 - Create Security Groups; tạo Security Groups cho các tài nguyên trong VPC; kiểm tra các quy tắc Inbound và Outbound. | 16/05/2026 | 16/05/2026 | Module 02-Lab03-03.5 |
-| 17/05 | Ôn tập các Lab đã thực hiện; tổng hợp kiến thức về NAT Gateway, Route Table và Security Group. | 17/05/2026 | 17/05/2026 | Module 02 |
+| 11/05 | Tìm hiểu NAT Gateway; phân biệt Public và Private Network. | 11/05/2026 | 11/05/2026 | NAT Gateway |
+| 12/05 | Thực hành tạo NAT Gateway; kiểm tra kết nối từ Private Subnet. | 12/05/2026 | 12/05/2026 | NAT Gateway |
+| 13/05 | Nghiên cứu Route Table; phân tích luồng định tuyến. | 13/05/2026 | 13/05/2026 | Route Table |
+| 14/05 | Cấu hình Route Table; kiểm tra hoạt động của các Route. | 14/05/2026 | 14/05/2026 | Route Table |
+| 15/05 | Học Security Group; tìm hiểu Stateful Firewall. | 15/05/2026 | 15/05/2026 | Security Group |
+| 16/05 | Thực hành cấu hình Security Group; kiểm tra Inbound và Outbound Rules. | 16/05/2026 | 16/05/2026 | Security Group |
+| 17/05 | Tổng hợp kiến thức; đánh giá khả năng áp dụng vào dự án Budget Tracker. | 17/05/2026 | 17/05/2026 | Budget Tracker |
 
 ## Kết quả đạt được:
-- Hiểu cơ chế kết nối Internet trong Amazon VPC.
-- Tạo thành công NAT Gateway và Route Table.
-- Cấu hình thành công Security Groups.
-- Nắm được cơ chế định tuyến và kiểm soát truy cập trong VPC.
+
+- Hiểu rõ cơ chế định tuyến.
+- Cấu hình thành công Route Table.
+- Thành thạo Security Group.
+- Nắm được mô hình bảo mật cơ bản trên AWS.

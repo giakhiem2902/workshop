@@ -6,24 +6,25 @@ pre: "<b>1.4. </b>"
 
 ## Week 4 Objectives:
 
-- Continue learning and practicing labs on AWS.
-- Learn about routing and Internet connectivity within a VPC.
-- Practice configuring Security Groups.
+- Continue practicing AWS network components.
+- Learn about routing and security mechanisms.
+- Prepare the foundation for application deployment.
 
 ## Tasks to be carried out this week:
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 |---|---|---|---|---|
-| 11/05 | Completed Module 02-Lab03-01.4 - NAT Gateway; learned the role of a NAT Gateway in providing Internet connectivity for a Private Subnet. | 11/05/2026 | 11/05/2026 | Module 02-Lab03-01.4 |
-| 12/05 | Completed Module 02-Lab03-04.3 - Create NAT Gateway; created a NAT Gateway; tested Internet connectivity from the Private Subnet. | 12/05/2026 | 12/05/2026 | Module 02-Lab03-04.3 |
-| 13/05 | Completed Module 02-Lab03-01.2 - Route Table; learned the routing principles within Amazon VPC. | 13/05/2026 | 13/05/2026 | Module 02-Lab03-01.2 |
-| 14/05 | Completed Module 02-Lab03-03.4 - Create Route Table for Outbound Internet; created a Route Table; configured routes to the Internet Gateway and NAT Gateway. | 14/05/2026 | 14/05/2026 | Module 02-Lab03-03.4 |
-| 15/05 | Completed Module 02-Lab03-02.1 - Security Group; learned the access-control mechanism using Security Groups. | 15/05/2026 | 15/05/2026 | Module 02-Lab03-02.1 |
-| 16/05 | Completed Module 02-Lab03-03.5 - Create Security Groups; created Security Groups for resources within the VPC; verified Inbound and Outbound rules. | 16/05/2026 | 16/05/2026 | Module 02-Lab03-03.5 |
-| 17/05 | Reviewed all labs completed during the week; consolidated knowledge on NAT Gateway, Route Table, and Security Group. | 17/05/2026 | 17/05/2026 | Module 02 |
+| 11/05 | Learned about the NAT Gateway; distinguished Public and Private networks. | 11/05/2026 | 11/05/2026 | NAT Gateway |
+| 12/05 | Practiced creating a NAT Gateway; tested connectivity from the Private Subnet. | 12/05/2026 | 12/05/2026 | NAT Gateway |
+| 13/05 | Studied the Route Table; analyzed the routing flow. | 13/05/2026 | 13/05/2026 | Route Table |
+| 14/05 | Configured the Route Table; tested the routes' operation. | 14/05/2026 | 14/05/2026 | Route Table |
+| 15/05 | Learned about Security Groups; learned about the Stateful Firewall. | 15/05/2026 | 15/05/2026 | Security Group |
+| 16/05 | Practiced configuring a Security Group; tested Inbound and Outbound rules. | 16/05/2026 | 16/05/2026 | Security Group |
+| 17/05 | Consolidated the knowledge learned; evaluated how it could be applied to the Budget Tracker project. | 17/05/2026 | 17/05/2026 | Budget Tracker |
 
 ## Results achieved:
-- Understood the Internet connectivity mechanism within Amazon VPC.
-- Successfully created a NAT Gateway and Route Table.
-- Successfully configured Security Groups.
-- Understood the routing and access-control mechanisms within a VPC.
+
+- Clearly understood the routing mechanism.
+- Successfully configured a Route Table.
+- Became proficient with Security Groups.
+- Understood the basic security model on AWS.

@@ -11,9 +11,9 @@ chapter: true
 
 **On this page** you will find the worklog recorded over **12 weeks** of the First Cloud Journey internship (Apr 20 – Jul 12, 2026). The process includes AWS Cloud fundamentals, knowledge review, project planning, and AWS infrastructure deployment for the **Budget Tracker** project.
 
-**Week 1 (20/04 – 26/04):** [Register and activate an AWS account, learn Module 01 cloud computing fundamentals, and receive 100 USD in AWS Credits](/1-worklog/1.1-week1/)
+**Week 1 (20/04 – 26/04):** [Get familiar with the internship program, activate an AWS account, and learn Cloud Computing fundamentals through Module 01](/1-worklog/1.1-week1/)
 
-**Week 2 (27/04 – 03/05):** [Study AWS global infrastructure and service management tools, and complete AWS Budgets labs to practice cost optimization](/1-worklog/1.2-week2/)
+**Week 2 (27/04 – 03/05):** [Study AWS global infrastructure and cost-management tools, and explore Amazon Bedrock, Lambda, and EC2](/1-worklog/1.2-week2/)
 
 **Week 3 (04/05 – 10/05):** [Learn the Amazon VPC architecture, and build a VPC with Subnets, an Internet Gateway, and a Key Pair](/1-worklog/1.3-week3/)
 

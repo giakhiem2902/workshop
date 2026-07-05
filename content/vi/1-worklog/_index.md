@@ -11,9 +11,9 @@ chapter: true
 
 **Trang này** tổng hợp worklog trong suốt **12 tuần** thực tập chương trình First Cloud Journey (20/04 – 12/07/2026). Quá trình bao gồm học kiến thức nền tảng AWS, ôn tập, lên kế hoạch dự án và triển khai hạ tầng AWS cho dự án **Budget Tracker**.
 
-**Tuần 1 (20/04 – 26/04):** [Đăng ký và kích hoạt tài khoản AWS, học Module 01 kiến thức nền tảng điện toán đám mây, và nhận 100 USD AWS Credits](/vi/1-worklog/1.1-week1/)
+**Tuần 1 (20/04 – 26/04):** [Làm quen với chương trình thực tập, kích hoạt tài khoản AWS, và học kiến thức nền tảng điện toán đám mây qua Module 01](/vi/1-worklog/1.1-week1/)
 
-**Tuần 2 (27/04 – 03/05):** [Tìm hiểu hạ tầng toàn cầu và công cụ quản lý dịch vụ AWS, hoàn thành các bài Lab AWS Budgets để thực hành tối ưu chi phí](/vi/1-worklog/1.2-week2/)
+**Tuần 2 (27/04 – 03/05):** [Tìm hiểu hạ tầng toàn cầu và công cụ quản lý chi phí AWS, khám phá Amazon Bedrock, Lambda và EC2](/vi/1-worklog/1.2-week2/)
 
 **Tuần 3 (04/05 – 10/05):** [Tìm hiểu kiến trúc Amazon VPC, xây dựng VPC cùng Subnet, Internet Gateway và Key Pair](/vi/1-worklog/1.3-week3/)
 
