@@ -1,0 +1,56 @@
+baseURL = "/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+title = "Internship Report"
+theme = "hugo-theme-learn"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir = false
+enableRobotsTXT = true
+
+[params]
+  editURL = ""
+  description = "AWS First Cloud AI Journey - Internship Report"
+  author = "giakhiemltgk2902@gmail.com"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableLandingPageButton = true
+  disableMermaid = false
+  themeVariant = "workshop"
+  titleSeparator = "::"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[Languages]
+  [Languages.en]
+    title = "Internship Report"
+    weight = 1
+    languageName = "English"
+    contentDir = "content/en"
+
+    [[Languages.en.menu.shortcuts]]
+      name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
+      url = "https://awsstudygroup.com"
+      weight = 10
+
+    [[Languages.en.menu.shortcuts]]
+      name = "<i class='fab fa-facebook'></i> AWS Study Group - FB Group"
+      url = "https://www.facebook.com/groups/awsstudygroupfcj"
+      weight = 20
+
+  [Languages.vi]
+    title = "Báo Cáo Thực Tập"
+    weight = 2
+    languageName = "Tiếng Việt"
+    contentDir = "content/vi"
+
+    [[Languages.vi.menu.shortcuts]]
+      name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
+      url = "https://awsstudygroup.com"
+      weight = 10
+
+    [[Languages.vi.menu.shortcuts]]
+      name = "<i class='fab fa-facebook'></i> AWS Study Group - FB Group"
+      url = "https://www.facebook.com/groups/awsstudygroupfcj"
+      weight = 20
