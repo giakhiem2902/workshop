@@ -9,4 +9,24 @@ chapter: true
 
 # Events Participated
 
-Reports on tech community events attended during the internship.
+## [Event 1](/4-eventparticipated/4.1-event1/)
+
+**Event Name:** AWS Community Day June 2026
+
+**Location:** Floor 36, Bitexco Tower, 02 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City
+
+**Time:** 9:00 AM, 23/05/2026
+
+**Role at the event:** Attendee
+
+---
+
+## [Event 2](/4-eventparticipated/4.2-event2/)
+
+**Event Name:** FCAJ Community Day June 2026
+
+**Location:** Floor 36, Bitexco Tower, 02 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City
+
+**Time:** 9:00 AM, 27/06/2026
+
+**Role at the event:** Attendee

@@ -9,4 +9,24 @@ chapter: true
 
 # Sự Kiện Đã Tham Gia
 
-Bài thu hoạch các sự kiện công nghệ đã tham gia trong quá trình thực tập.
+## [Event 1](/vi/4-eventparticipated/4.1-event1/)
+
+**Tên sự kiện:** AWS Community Day June 2026
+
+**Địa điểm:** Tầng 36, toà nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh
+
+**Thời gian:** 9:00 23/05/2026
+
+**Vai trò trong sự kiện:** Người tham dự
+
+---
+
+## [Event 2](/vi/4-eventparticipated/4.2-event2/)
+
+**Tên sự kiện:** FCAJ Community Day June 2026
+
+**Địa điểm:** Tầng 36, toà nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh
+
+**Thời gian:** 9:00 27/06/2026
+
+**Vai trò trong sự kiện:** Người tham dự
