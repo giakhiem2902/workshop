@@ -21,7 +21,7 @@ chapter: true
 
 **Week 5 (18/05 – 24/05):** [Deploy Amazon EC2 inside a VPC, test connectivity between resources, and clean up after completing Module 02](/1-worklog/1.5-week5/)
 
-**Week 6 (25/05 – 31/05):** [Consolidate the AWS knowledge learned so far, and explore the ZeroBug Agent project idea with the team](/1-worklog/1.6-week6/)
+**Week 6 (25/05 – 31/05):** [Consolidate the AWS knowledge learned so far, and explore how to apply AWS services to the Budget Tracker project](/1-worklog/1.6-week6/)
 
 **Week 7 (01/06 – 07/06):** [Analyze the Budget Tracker system requirements, and build a Serverless deployment approach on AWS](/1-worklog/1.7-week7/)
 

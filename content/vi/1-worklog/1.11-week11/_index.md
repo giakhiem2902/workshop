@@ -7,6 +7,7 @@ pre: "<b>1.11. </b>"
 ## Mục tiêu Tuần 11:
 
 - Tích hợp toàn bộ hệ thống.
+- Áp dụng AI Gemini.
 - Kiểm thử.
 
 ## Các nhiệm vụ thực hiện trong tuần:
@@ -17,7 +18,7 @@ pre: "<b>1.11. </b>"
 | 30/06 | Kiểm thử Cognito Login. | 30/06/2026 | 30/06/2026 | Amazon Cognito |
 | 01/07 | Kiểm thử CRUD Transaction. | 01/07/2026 | 01/07/2026 | Transaction API |
 | 02/07 | Kiểm thử Upload Receipt lên S3. | 02/07/2026 | 02/07/2026 | Amazon S3 |
-| 03/07 | Kiểm thử AI Amazon Bedrock. | 03/07/2026 | 03/07/2026 | Amazon Bedrock |
+| 03/07 | Sử dụng AI Gemini; kiểm thử AI Gemini. | 03/07/2026 | 03/07/2026 | AI Gemini |
 | 04/07 | Kiểm thử CloudWatch và SNS. | 04/07/2026 | 04/07/2026 | CloudWatch, SNS |
 | 05/07 | Tối ưu hiệu năng Lambda. | 05/07/2026 | 05/07/2026 | AWS Lambda |
 

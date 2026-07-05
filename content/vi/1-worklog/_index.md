@@ -21,7 +21,7 @@ chapter: true
 
 **Tuần 5 (18/05 – 24/05):** [Triển khai Amazon EC2 trong VPC, kiểm tra kết nối giữa các tài nguyên, và dọn dẹp sau khi hoàn thành Module 02](/vi/1-worklog/1.5-week5/)
 
-**Tuần 6 (25/05 – 31/05):** [Hệ thống hóa kiến thức AWS đã học và tìm hiểu ý tưởng đề tài ZeroBug Agent cùng nhóm](/vi/1-worklog/1.6-week6/)
+**Tuần 6 (25/05 – 31/05):** [Hệ thống hóa kiến thức AWS đã học và tìm hiểu khả năng áp dụng các dịch vụ AWS vào dự án Budget Tracker](/vi/1-worklog/1.6-week6/)
 
 **Tuần 7 (01/06 – 07/06):** [Phân tích yêu cầu hệ thống Budget Tracker và xây dựng phương án triển khai Serverless trên AWS](/vi/1-worklog/1.7-week7/)
 

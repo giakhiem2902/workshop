@@ -7,6 +7,7 @@ pre: "<b>1.11. </b>"
 ## Week 11 Objectives:
 
 - Integrate the entire system end-to-end.
+- Apply the Gemini AI integration.
 - Perform testing.
 
 ## Tasks to be carried out this week:
@@ -17,7 +18,7 @@ pre: "<b>1.11. </b>"
 | 30/06 | Tested the Cognito login flow. | 30/06/2026 | 30/06/2026 | Amazon Cognito |
 | 01/07 | Tested CRUD operations on Transactions. | 01/07/2026 | 01/07/2026 | Transaction API |
 | 02/07 | Tested uploading receipts to Amazon S3. | 02/07/2026 | 02/07/2026 | Amazon S3 |
-| 03/07 | Tested the AI features powered by Amazon Bedrock. | 03/07/2026 | 03/07/2026 | Amazon Bedrock |
+| 03/07 | Used the Gemini AI integration; tested the Gemini AI features. | 03/07/2026 | 03/07/2026 | Gemini AI |
 | 04/07 | Tested CloudWatch and SNS notifications. | 04/07/2026 | 04/07/2026 | CloudWatch, SNS |
 | 05/07 | Optimized Lambda performance. | 05/07/2026 | 05/07/2026 | AWS Lambda |
 
