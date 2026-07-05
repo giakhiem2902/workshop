@@ -4,38 +4,24 @@ weight: 12
 pre: "<b>1.12. </b>"
 ---
 
-## Week 12 (06/07 – 12/07)
+## Week 12 Objectives:
 
-### Objectives
 - Finalize the system.
 - Prepare for final acceptance/review.
 
-### Activities
+## Tasks to be carried out this week:
 
-**06/07**
-- Tested the entire system end-to-end.
+| Day | Task | Start Date | Completion Date | Reference Material |
+|---|---|---|---|---|
+| 06/07 | Tested the entire system end-to-end. | 06/07/2026 | 06/07/2026 | System testing |
+| 07/07 | Checked Lambda performance. | 07/07/2026 | 07/07/2026 | AWS Lambda |
+| 08/07 | Checked Cognito security; checked AWS WAF. | 08/07/2026 | 08/07/2026 | Cognito, AWS WAF |
+| 09/07 | Finalized the deployment documentation. | 09/07/2026 | 09/07/2026 | Deployment documentation |
+| 10/07 | Finalized the project report. | 10/07/2026 | 10/07/2026 | Project report |
+| 11/07 | Revised the report based on feedback. | 11/07/2026 | 11/07/2026 | Project report |
+| 12/07 | Wrapped up the project; prepared for final acceptance/review. | 12/07/2026 | 12/07/2026 | Final acceptance |
 
-**07/07**
-- Checked Lambda performance.
-
-**08/07**
-- Checked Cognito security.
-- Checked AWS WAF.
-
-**09/07**
-- Finalized the deployment documentation.
-
-**10/07**
-- Finalized the project report.
-
-**11/07**
-- Revised the report based on feedback.
-
-**12/07**
-- Wrapped up the project.
-- Prepared for final acceptance/review.
-
-### Results
+## Results achieved:
 - Completed the Budget Tracker system.
 - Finalized the AWS deployment documentation.
 - Completed the project report.

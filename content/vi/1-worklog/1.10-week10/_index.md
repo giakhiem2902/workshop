@@ -4,43 +4,24 @@ weight: 10
 pre: "<b>1.10. </b>"
 ---
 
-## Tuần 10 (22/06 – 28/06)
+## Mục tiêu Tuần 10:
 
-### Mục tiêu
 - Triển khai các dịch vụ AWS.
 - Hoàn thiện Backend Serverless.
 
-### Nội dung thực hiện
+## Các nhiệm vụ thực hiện trong tuần:
 
-**22/06**
-- Tạo Amazon S3.
-- Deploy React App.
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+|---|---|---|---|---|
+| 22/06 | Tạo Amazon S3; deploy React App. | 22/06/2026 | 22/06/2026 | Amazon S3 |
+| 23/06 | Tạo Amazon Route53; cấu hình CloudFront. | 23/06/2026 | 23/06/2026 | Route 53, CloudFront |
+| 24/06 | Cấu hình AWS WAF; thiết lập Managed Rules. | 24/06/2026 | 24/06/2026 | AWS WAF |
+| 25/06 | Tạo Amazon Cognito; cấu hình User Pool. | 25/06/2026 | 25/06/2026 | Amazon Cognito |
+| 26/06 | Tạo API Gateway; kết nối AWS Lambda. | 26/06/2026 | 26/06/2026 | API Gateway, Lambda |
+| 27/06 | Tạo DynamoDB; tạo Amazon SQS. | 27/06/2026 | 27/06/2026 | DynamoDB, SQS |
+| 28/06 | Tạo CloudWatch; cấu hình Amazon SNS. | 28/06/2026 | 28/06/2026 | CloudWatch, SNS |
 
-**23/06**
-- Tạo Amazon Route53.
-- Cấu hình CloudFront.
-
-**24/06**
-- Cấu hình AWS WAF.
-- Thiết lập Managed Rules.
-
-**25/06**
-- Tạo Amazon Cognito.
-- Cấu hình User Pool.
-
-**26/06**
-- Tạo API Gateway.
-- Kết nối AWS Lambda.
-
-**27/06**
-- Tạo DynamoDB.
-- Tạo Amazon SQS.
-
-**28/06**
-- Tạo CloudWatch.
-- Cấu hình Amazon SNS.
-
-### Kết quả đạt được
+## Kết quả đạt được:
 - Hoàn thành triển khai hạ tầng Serverless.
 - Triển khai thành công React App.
 - Kết nối API Gateway với Lambda.

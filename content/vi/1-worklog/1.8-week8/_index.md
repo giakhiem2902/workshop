@@ -4,43 +4,25 @@ weight: 8
 pre: "<b>1.8. </b>"
 ---
 
-## Tuần 8 (08/06 – 14/06)
+## Mục tiêu Tuần 8:
 
-### Mục tiêu
 - Thiết kế kiến trúc triển khai.
 - Thiết kế cơ sở dữ liệu.
 - Thiết kế giao diện.
 
-### Nội dung thực hiện
+## Các nhiệm vụ thực hiện trong tuần:
 
-**08/06**
-- Tìm hiểu AWS Architecture Icons.
-- Học sử dụng Draw.io để vẽ kiến trúc AWS.
+| Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+|---|---|---|---|---|
+| 08/06 | Tìm hiểu AWS Architecture Icons; học sử dụng Draw.io để vẽ kiến trúc AWS. | 08/06/2026 | 08/06/2026 | AWS Architecture Icons, Draw.io |
+| 09/06 | Thiết kế sơ đồ kiến trúc tổng thể; xác định luồng Request giữa Frontend và Backend. | 09/06/2026 | 09/06/2026 | Sơ đồ kiến trúc AWS |
+| 10/06 | Thiết kế Flow: Login, JWT, CRUD Transaction, AI Analysis, Notification. | 10/06/2026 | 10/06/2026 | Thiết kế Flow |
+| 11/06 | Thiết kế Database DynamoDB; xây dựng mô hình dữ liệu. | 11/06/2026 | 11/06/2026 | Mô hình dữ liệu DynamoDB |
+| 12/06 | Thiết kế Wireframe; thiết kế UI React. | 12/06/2026 | 12/06/2026 | Wireframe, UI React |
+| 13/06 | Hoàn thiện sơ đồ kiến trúc AWS; rà soát các kết nối giữa các dịch vụ. | 13/06/2026 | 13/06/2026 | Sơ đồ kiến trúc AWS |
+| 14/06 | Kiểm tra tính khả thi; chuẩn bị triển khai thực tế. | 14/06/2026 | 14/06/2026 | Kế hoạch triển khai |
 
-**09/06**
-- Thiết kế sơ đồ kiến trúc tổng thể.
-- Xác định luồng Request giữa Frontend và Backend.
-
-**10/06**
-- Thiết kế Flow: Login, JWT, CRUD Transaction, AI Analysis, Notification.
-
-**11/06**
-- Thiết kế Database DynamoDB.
-- Xây dựng mô hình dữ liệu.
-
-**12/06**
-- Thiết kế Wireframe.
-- Thiết kế UI React.
-
-**13/06**
-- Hoàn thiện sơ đồ kiến trúc AWS.
-- Rà soát các kết nối giữa các dịch vụ.
-
-**14/06**
-- Kiểm tra tính khả thi.
-- Chuẩn bị triển khai thực tế.
-
-### Kết quả đạt được
+## Kết quả đạt được:
 - Hoàn thành sơ đồ kiến trúc AWS.
 - Hoàn thiện Database Design.
 - Hoàn thiện UI Prototype.
