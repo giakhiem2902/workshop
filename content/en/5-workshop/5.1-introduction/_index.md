@@ -16,7 +16,7 @@ Request flow: React frontend → API Gateway (JWT via Cognito Authorizer) → La
 
 | Member | Area | Workshop Sections |
 |---|---|---|
-| Shared | IAM + Route 53 + WAFv2 (Infrastructure Foundation) | 3 |
+| Chung | IAM + Route 53 + WAFv2 (Infrastructure Foundation) | 3 |
 | Khiem | DynamoDB + Secrets Manager + S3 (Database & Data layer) + Cognito Auth & Edge | 4, 7 |
 | Huy | API Gateway + Lambda Core (Transaction/Budget/Report) + Notifications (SNS/SQS/EventBridge) | 5, 8 |
 | Cong | React Frontend + Cognito login flow + Gemini AI integration | 6 |

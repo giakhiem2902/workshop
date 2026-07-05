@@ -6,8 +6,6 @@ pre: "<b>5.11. </b>"
 
 ## Module 11: Deployment
 
-**Member:** Whole team
-
 ### 11.1 SAM Template Structure
 
 ```

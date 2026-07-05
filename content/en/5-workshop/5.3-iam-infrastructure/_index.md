@@ -6,7 +6,7 @@ pre: "<b>5.3. </b>"
 
 ## Module 3: IAM, Infrastructure Foundation
 
-**Member:** Shared
+**Member:** Chung
 
 ### 3.1 Create IAM Roles & Policies
 

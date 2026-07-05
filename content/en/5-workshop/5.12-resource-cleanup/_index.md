@@ -6,7 +6,7 @@ pre: "<b>5.12. </b>"
 
 ## Module 12: Resource Cleanup
 
-**Owner:** Shared (Chung) — **Time:** 30 minutes
+**Owner:** Chung — **Time:** 30 minutes
 
 ### 12.1 Delete CloudFormation Stack
 
