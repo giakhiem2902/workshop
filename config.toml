@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://giakhiem2902.github.io/workshop/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
 title = "Internship Report"
@@ -6,6 +6,7 @@ theme = "hugo-theme-learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
+canonifyURLs = true
 
 [params]
   editURL = ""
