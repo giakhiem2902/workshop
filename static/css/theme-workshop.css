@@ -226,3 +226,12 @@ div.notices.info p {
   border-top: 30px solid #fd9827;
   background: #fff2db;
 }
+
+/* Left-align chapter landing page body text (theme default centers it) */
+#chapter #body-inner {
+  max-width: 100%;
+  text-align: left;
+}
+#chapter p {
+  text-align: left;
+}
