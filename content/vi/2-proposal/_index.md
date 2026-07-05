@@ -68,6 +68,8 @@ Budget Tracker mang lại các lợi ích thiết thực:
 
 Budget Tracker sử dụng kiến trúc AWS Serverless với tích hợp Google Gemini API, được thiết kế cho khả năng mở rộng, chi phí tối ưu và độ tin cậy cao.
 
+![Sơ đồ kiến trúc AWS của Budget Tracker](/images/proposal/sodo.jpg)
+
 ### 3.1 Stack Công Nghệ
 
 | Thành Phần | Công Nghệ | Mục Đích |

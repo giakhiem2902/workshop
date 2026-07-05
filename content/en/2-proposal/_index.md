@@ -68,6 +68,8 @@ Budget Tracker delivers concrete benefits:
 
 Budget Tracker uses an AWS Serverless architecture integrated with the Google Gemini API, designed for scalability, cost optimization, and high reliability.
 
+![Budget Tracker AWS architecture diagram](/images/proposal/sodo.jpg)
+
 ### 3.1 Technology Stack
 
 | Component | Technology | Purpose |
