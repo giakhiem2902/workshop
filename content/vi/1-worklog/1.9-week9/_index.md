@@ -14,13 +14,13 @@ pre: "<b>1.9. </b>"
 
 | Ngày | Nhiệm vụ | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
 |---|---|---|---|---|
-| 15/06 | Kiểm tra lại sơ đồ kiến trúc. | 15/06/2026 | 15/06/2026 | Sơ đồ kiến trúc AWS |
-| 16/06 | Điều chỉnh theo AWS Best Practice. | 16/06/2026 | 16/06/2026 | AWS Best Practice |
-| 17/06 | Chỉnh sửa kiến trúc theo góp ý của AWS Community Builder và Admin. | 17/06/2026 | 17/06/2026 | Sơ đồ kiến trúc AWS |
-| 18/06 | Hoàn thiện Flow: Login, API, Lambda, AI, Notification. | 18/06/2026 | 18/06/2026 | Thiết kế Flow |
-| 19/06 | Tìm hiểu AWS WAF; nghiên cứu Managed Rules. | 19/06/2026 | 19/06/2026 | AWS WAF |
-| 20/06 | Thiết lập Rate-based Rule; xây dựng chiến lược chống DDOS. | 20/06/2026 | 20/06/2026 | AWS WAF |
-| 21/06 | Tổng hợp tài liệu Workshop; chuẩn bị triển khai thực tế. | 21/06/2026 | 21/06/2026 | Tài liệu Workshop |
+| 15/06 | Kiểm tra lại sơ đồ kiến trúc. | 15/06/2026 | 15/06/2026 | |
+| 16/06 | Điều chỉnh theo AWS Best Practice. | 16/06/2026 | 16/06/2026 | |
+| 17/06 | Chỉnh sửa kiến trúc theo góp ý của AWS Community Builder và Admin. | 17/06/2026 | 17/06/2026 | |
+| 18/06 | Hoàn thiện Flow: Login, API, Lambda, AI, Notification. | 18/06/2026 | 18/06/2026 | |
+| 19/06 | Tìm hiểu AWS WAF; nghiên cứu Managed Rules. | 19/06/2026 | 19/06/2026 | [AWS WAF Developer Guide](https://docs.aws.amazon.com/waf/latest/developerguide/) |
+| 20/06 | Thiết lập Rate-based Rule; xây dựng chiến lược chống DDOS. | 20/06/2026 | 20/06/2026 | [AWS WAF – Rate-based Rule](https://docs.aws.amazon.com/waf/latest/developerguide/waf-rule-statement-type-rate-based.html) |
+| 21/06 | Tổng hợp tài liệu Workshop; chuẩn bị triển khai thực tế. | 21/06/2026 | 21/06/2026 | |
 
 ## Kết quả đạt được:
 - Hoàn thiện kiến trúc chuẩn AWS.

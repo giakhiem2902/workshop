@@ -14,13 +14,13 @@ pre: "<b>1.5. </b>"
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 |---|---|---|---|---|
-| 18/05 | Launched Amazon EC2; configured the instance inside the VPC. | 18/05/2026 | 18/05/2026 | Amazon EC2 |
-| 19/05 | Checked the EC2 status; configured an IAM Role for EC2. | 19/05/2026 | 19/05/2026 | Amazon EC2, IAM Role |
-| 20/05 | Practiced connecting to EC2; checked the Security Group. | 20/05/2026 | 20/05/2026 | Amazon EC2 |
-| 21/05 | Learned about the EC2 Instance Connect Endpoint; compared connection methods. | 21/05/2026 | 21/05/2026 | EC2 Instance Connect Endpoint |
-| 22/05 | Tested connectivity between resources within the VPC; evaluated the network architecture. | 22/05/2026 | 22/05/2026 | Amazon VPC |
-| 23/05 | Cleaned up AWS resources; checked incurred costs. | 23/05/2026 | 23/05/2026 | Resource cleanup |
-| 24/05 | Consolidated all of Module 02; evaluated how the knowledge could be applied to the Budget Tracker project. | 24/05/2026 | 24/05/2026 | Module 02 |
+| 18/05 | Launched Amazon EC2; configured the instance inside the VPC. | 18/05/2026 | 18/05/2026 | [Amazon EC2 – Getting Started](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) |
+| 19/05 | Checked the EC2 status; configured an IAM Role for EC2. | 19/05/2026 | 19/05/2026 | [Amazon EC2 – IAM Roles](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html) |
+| 20/05 | Practiced connecting to EC2; checked the Security Group. | 20/05/2026 | 20/05/2026 | |
+| 21/05 | Learned about the EC2 Instance Connect Endpoint; compared connection methods. | 21/05/2026 | 21/05/2026 | [Amazon EC2 Instance Connect Endpoint](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connect-with-ec2-instance-connect-endpoint.html) |
+| 22/05 | Tested connectivity between resources within the VPC; evaluated the network architecture. | 22/05/2026 | 22/05/2026 | |
+| 23/05 | Cleaned up AWS resources; checked incurred costs. | 23/05/2026 | 23/05/2026 | [Tutorial video](https://www.youtube.com/watch?v=ggFZt2JGIeM) |
+| 24/05 | Consolidated all of Module 02; evaluated how the knowledge could be applied to the Budget Tracker project. | 24/05/2026 | 24/05/2026 | |
 
 ## Results achieved:
 

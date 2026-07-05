@@ -14,13 +14,13 @@ pre: "<b>1.4. </b>"
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 |---|---|---|---|---|
-| 11/05 | Learned about the NAT Gateway; distinguished Public and Private networks. | 11/05/2026 | 11/05/2026 | NAT Gateway |
-| 12/05 | Practiced creating a NAT Gateway; tested connectivity from the Private Subnet. | 12/05/2026 | 12/05/2026 | NAT Gateway |
-| 13/05 | Studied the Route Table; analyzed the routing flow. | 13/05/2026 | 13/05/2026 | Route Table |
-| 14/05 | Configured the Route Table; tested the routes' operation. | 14/05/2026 | 14/05/2026 | Route Table |
-| 15/05 | Learned about Security Groups; learned about the Stateful Firewall. | 15/05/2026 | 15/05/2026 | Security Group |
-| 16/05 | Practiced configuring a Security Group; tested Inbound and Outbound rules. | 16/05/2026 | 16/05/2026 | Security Group |
-| 17/05 | Consolidated the knowledge learned; evaluated how it could be applied to the Budget Tracker project. | 17/05/2026 | 17/05/2026 | Budget Tracker |
+| 11/05 | Learned about the NAT Gateway; distinguished Public and Private networks. | 11/05/2026 | 11/05/2026 | [Amazon VPC – NAT Gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html) |
+| 12/05 | Practiced creating a NAT Gateway; tested connectivity from the Private Subnet. | 12/05/2026 | 12/05/2026 | [Amazon VPC – NAT Gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html) |
+| 13/05 | Studied the Route Table; analyzed the routing flow. | 13/05/2026 | 13/05/2026 | [Tutorial video](https://www.youtube.com/watch?v=dHoYmQR7FYs) |
+| 14/05 | Configured the Route Table; tested the routes' operation. | 14/05/2026 | 14/05/2026 | |
+| 15/05 | Learned about Security Groups; learned about the Stateful Firewall. | 15/05/2026 | 15/05/2026 | [Tutorial video](https://www.youtube.com/watch?v=k-g4wz4Qlfk) |
+| 16/05 | Practiced configuring a Security Group; tested Inbound and Outbound rules. | 16/05/2026 | 16/05/2026 | |
+| 17/05 | Consolidated the knowledge learned; evaluated how it could be applied to the Budget Tracker project. | 17/05/2026 | 17/05/2026 | |
 
 ## Results achieved:
 

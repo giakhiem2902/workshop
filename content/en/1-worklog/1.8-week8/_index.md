@@ -14,13 +14,13 @@ pre: "<b>1.8. </b>"
 
 | Day | Task | Start Date | Completion Date | Reference Material |
 |---|---|---|---|---|
-| 08/06 | Learned about AWS Architecture Icons; learned to use Draw.io to sketch AWS architecture diagrams. | 08/06/2026 | 08/06/2026 | AWS Architecture Icons, Draw.io |
-| 09/06 | Designed the overall architecture diagram; defined the request flow between Frontend and Backend. | 09/06/2026 | 09/06/2026 | AWS architecture diagram |
-| 10/06 | Designed the Login, JWT, CRUD Transaction, AI Analysis, and Notification flows. | 10/06/2026 | 10/06/2026 | Flow design |
-| 11/06 | Designed the DynamoDB database; built the data model. | 11/06/2026 | 11/06/2026 | DynamoDB data model |
-| 12/06 | Designed the wireframe; designed the React UI. | 12/06/2026 | 12/06/2026 | Wireframe, React UI |
-| 13/06 | Finalized the AWS architecture diagram; reviewed the connections between services. | 13/06/2026 | 13/06/2026 | AWS architecture diagram |
-| 14/06 | Checked feasibility; prepared for actual deployment. | 14/06/2026 | 14/06/2026 | Deployment plan |
+| 08/06 | Learned about AWS Architecture Icons; learned to use Draw.io to sketch AWS architecture diagrams. | 08/06/2026 | 08/06/2026 | [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/) |
+| 09/06 | Designed the overall architecture diagram; defined the request flow between Frontend and Backend. | 09/06/2026 | 09/06/2026 | [diagrams.net (Draw.io)](https://app.diagrams.net/) |
+| 10/06 | Designed the Login, JWT, CRUD Transaction, AI Analysis, and Notification flows. | 10/06/2026 | 10/06/2026 | |
+| 11/06 | Designed the DynamoDB database; built the data model. | 11/06/2026 | 11/06/2026 | [Amazon DynamoDB Developer Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/) |
+| 12/06 | Designed the wireframe; designed the React UI. | 12/06/2026 | 12/06/2026 | [React Documentation](https://react.dev/) |
+| 13/06 | Finalized the AWS architecture diagram; reviewed the connections between services. | 13/06/2026 | 13/06/2026 | |
+| 14/06 | Checked feasibility; prepared for actual deployment. | 14/06/2026 | 14/06/2026 | |
 
 ## Results achieved:
 - Completed the AWS architecture diagram.
