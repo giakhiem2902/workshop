@@ -137,3 +137,9 @@ The event also provided the chance to network with industry experts, helping me 
 - Cloud, DevOps, and AI are gradually converging to create more automated and intelligent systems.
 - One must proactively learn, gain real-world experience, and use AI as a tool to support work.
 - Understanding the business domain and enterprise needs is key to building effective technology solutions.
+
+### Photos
+
+![FCAJ Community Day June 2026 - photo 1](/images/event/event2/1.jpg)
+![FCAJ Community Day June 2026 - photo 2](/images/event/event2/2.jpg)
+![FCAJ Community Day June 2026 - photo 3](/images/event/event2/3.jpg)

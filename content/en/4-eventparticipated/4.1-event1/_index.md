@@ -123,3 +123,9 @@ I had the chance to meet experts who share the same passion for technology. Thro
 After attending AWS Community Day June 2026, I realized that technology is changing very quickly and continuous learning is essential. AI is only truly effective when given sufficient data and context. In addition, enterprise AI systems are gradually shifting toward the Multi-Agent model to solve more complex problems.
 
 Beyond technical knowledge, the event also helped me recognize the importance of participating in the community, proactively learning, and constantly keeping up with new technology to improve my own capabilities in the Cloud and AI field.
+
+### Photos
+
+![AWS Community Day June 2026 - photo 1](/images/event/event1/1.jpg)
+![AWS Community Day June 2026 - photo 2](/images/event/event1/2.jpg)
+![AWS Community Day June 2026 - photo 3](/images/event/event1/3.jpg)

@@ -137,3 +137,9 @@ Ngoài ra, sự kiện còn mang đến cơ hội giao lưu với các chuyên g
 - Cloud, DevOps và AI đang dần hội tụ để tạo ra các hệ thống tự động và thông minh hơn.
 - Cần chủ động học hỏi, tích lũy kinh nghiệm thực tế và sử dụng AI như một công cụ hỗ trợ công việc.
 - Việc hiểu rõ business domain và nhu cầu doanh nghiệp là yếu tố quan trọng để xây dựng các giải pháp công nghệ hiệu quả.
+
+### Hình Ảnh
+
+![FCAJ Community Day June 2026 - ảnh 1](/images/event/event2/1.jpg)
+![FCAJ Community Day June 2026 - ảnh 2](/images/event/event2/2.jpg)
+![FCAJ Community Day June 2026 - ảnh 3](/images/event/event2/3.jpg)

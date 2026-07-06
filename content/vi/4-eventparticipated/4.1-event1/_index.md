@@ -123,3 +123,9 @@ Em đã có cơ hội gặp gỡ các chuyên gia, những người có cùng đ
 Sau khi tham gia AWS Community Day June 2026, em nhận thấy rằng công nghệ đang thay đổi rất nhanh và việc học tập liên tục là vô cùng cần thiết. AI chỉ thực sự hiệu quả khi được cung cấp đầy đủ dữ liệu và ngữ cảnh. Bên cạnh đó, các hệ thống AI doanh nghiệp đang dần chuyển sang mô hình Multi-Agent để giải quyết những bài toán phức tạp hơn.
 
 Ngoài kiến thức chuyên môn, sự kiện còn giúp em nhận ra tầm quan trọng của việc tham gia cộng đồng, chủ động học hỏi và không ngừng cập nhật công nghệ mới để nâng cao năng lực bản thân trong lĩnh vực Cloud và AI.
+
+### Hình Ảnh
+
+![AWS Community Day June 2026 - ảnh 1](/images/event/event1/1.jpg)
+![AWS Community Day June 2026 - ảnh 2](/images/event/event1/2.jpg)
+![AWS Community Day June 2026 - ảnh 3](/images/event/event1/3.jpg)
