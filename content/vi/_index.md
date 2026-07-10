@@ -22,7 +22,7 @@ title: Báo Cáo Thực Tập
 
   **Vị Trí Thực Tập:** Workforce Bootcamp - First Cloud AI Journey
 
-  **Thời Gian Thực Tập:** Từ 20/04/2026 đến 12/07/2026
+  **Thời Gian Thực Tập:** Từ 17/04/2026 đến 30/07/2026
 
 ![Ảnh đại diện](/images/profile/avatar.png)
 

@@ -6,7 +6,7 @@ pre: "<b>6. </b>"
 
 ## Self-Assessment
 
-During my internship at Amazon Web Services Vietnam Company Limited, from 20/04/2026 to 12/07/2026, I had the opportunity to experience a real working environment and apply the knowledge I had learned to the development and deployment of a project on the AWS cloud computing platform.
+During my internship at Amazon Web Services Vietnam Company Limited, from 17/04/2026 to 30/07/2026, I had the opportunity to experience a real working environment and apply the knowledge I had learned to the development and deployment of a project on the AWS cloud computing platform.
 
 Throughout the internship, I took part in building Budget Tracker — a smart personal expense management system built on an AWS Serverless architecture. I contributed to tasks such as designing the user interface with ReactJS, developing RESTful APIs with ASP.NET Core Web API (.NET 8), researching and deploying AWS services such as Amazon API Gateway, AWS Lambda, Amazon DynamoDB, Amazon S3, Amazon Cognito, Amazon CloudFront, Amazon Route 53, AWS WAF, Amazon SQS, Gemini AI, Amazon CloudWatch, and Amazon SNS. I was also involved in designing the system architecture, building the AWS architecture diagram, configuring AWS services, and testing the system's operational flow.
 

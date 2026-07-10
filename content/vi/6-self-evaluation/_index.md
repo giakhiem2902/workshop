@@ -6,7 +6,7 @@ pre: "<b>6. </b>"
 
 ## Tự Đánh Giá
 
-Trong thời gian thực tập tại Công ty TNHH Amazon Web Services Việt Nam từ 20/04/2026 đến 12/07/2026, tôi đã có cơ hội tiếp cận môi trường làm việc thực tế, vận dụng các kiến thức đã học vào quá trình phát triển và triển khai một dự án trên nền tảng điện toán đám mây AWS.
+Trong thời gian thực tập tại Công ty TNHH Amazon Web Services Việt Nam từ 17/04/2026 đến 30/07/2026, tôi đã có cơ hội tiếp cận môi trường làm việc thực tế, vận dụng các kiến thức đã học vào quá trình phát triển và triển khai một dự án trên nền tảng điện toán đám mây AWS.
 
 Trong suốt quá trình thực tập, tôi tham gia thực hiện dự án Budget Tracker – hệ thống quản lý chi tiêu cá nhân thông minh được xây dựng theo kiến trúc AWS Serverless. Tôi đã tham gia vào các công việc như thiết kế giao diện người dùng bằng ReactJS, phát triển các RESTful API bằng ASP.NET Core Web API (.NET 8), nghiên cứu và triển khai các dịch vụ AWS như Amazon API Gateway, AWS Lambda, Amazon DynamoDB, Amazon S3, Amazon Cognito, Amazon CloudFront, Amazon Route 53, AWS WAF, Amazon SQS, Gemini AI, Amazon CloudWatch và Amazon SNS. Ngoài ra, tôi còn tham gia thiết kế kiến trúc hệ thống, xây dựng sơ đồ AWS Architecture, cấu hình các dịch vụ AWS và kiểm thử luồng hoạt động của hệ thống.
 

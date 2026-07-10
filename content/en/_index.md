@@ -22,7 +22,7 @@ title: Internship Report
 
   **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
-  **Internship Duration:** From 20/04/2026 to 12/07/2026
+  **Internship Duration:** From 17/04/2026 to 30/07/2026
 
 ![Profile picture](/images/profile/avatar.png)
 
