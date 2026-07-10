@@ -35,3 +35,4 @@ title: Báo Cáo Thực Tập
 5. [Workshop](/vi/5-workshop/)
 6. [Tự Đánh Giá](/vi/6-self-evaluation/)
 7. [Chia Sẻ và Đóng Góp Ý Kiến](/vi/7-feedback/)
+8. [Website](/vi/8-website/)
