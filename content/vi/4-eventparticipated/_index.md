@@ -30,3 +30,15 @@ chapter: true
 **Thời gian:** 9:00 27/06/2026
 
 **Vai trò trong sự kiện:** Người tham dự
+
+---
+
+## [Event 3](/vi/4-eventparticipated/4.3-event3/)
+
+**Tên sự kiện:** AWS Meet Up
+
+**Địa điểm:** Tầng 36, toà nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh
+
+**Thời gian:** 9:00 11/07/2026
+
+**Vai trò trong sự kiện:** Người tham dự
