@@ -37,7 +37,7 @@ chapter: true
 
 **Tên sự kiện:** AWS Meet Up
 
-**Địa điểm:** Tầng 36, toà nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh
+**Địa điểm:** Tầng 26, toà nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, Thành phố Hồ Chí Minh
 
 **Thời gian:** 9:00 11/07/2026
 

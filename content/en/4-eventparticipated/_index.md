@@ -37,7 +37,7 @@ chapter: true
 
 **Event Name:** AWS Meet Up
 
-**Location:** Floor 36, Bitexco Tower, 02 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City
+**Location:** Floor 26, Bitexco Tower, 02 Hai Trieu Street, Sai Gon Ward, Ho Chi Minh City
 
 **Time:** 9:00 AM, 11/07/2026
 
