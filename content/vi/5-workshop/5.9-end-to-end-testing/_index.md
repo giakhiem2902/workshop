@@ -6,7 +6,7 @@ pre: "<b>5.9. </b>"
 
 ## Module 9: End-to-End Testing
 
-**Video Demo:** [https://drive.google.com/file/d/1ROS5Y9MkUJszY9LHJnl0AXY4IQVt_0Kd/view?usp=sharing](https://drive.google.com/file/d/1ROS5Y9MkUJszY9LHJnl0AXY4IQVt_0Kd/view?usp=sharing) — video ghi lại toàn bộ luồng hoạt động của hệ thống Budget Tracker (đăng nhập, giao dịch, ngân sách, AI chat, thông báo) dùng để kiểm thử các kịch bản end-to-end bên dưới.
+**Video Demo:** [https://drive.google.com/file/d/1_q4sdSqufmfxGnCE7WsOOij97Xxfb1hk/view?usp=sharing](https://drive.google.com/file/d/1_q4sdSqufmfxGnCE7WsOOij97Xxfb1hk/view?usp=sharing) — video ghi lại toàn bộ luồng hoạt động của hệ thống Budget Tracker (đăng nhập, giao dịch, ngân sách, AI chat, thông báo) dùng để kiểm thử các kịch bản end-to-end bên dưới.
 
 **Thành viên:** Cả nhóm
 

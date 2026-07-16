@@ -6,7 +6,7 @@ pre: "<b>5.9. </b>"
 
 ## Module 9: End-to-End Testing
 
-**Demo Video:** [https://drive.google.com/file/d/1ROS5Y9MkUJszY9LHJnl0AXY4IQVt_0Kd/view?usp=sharing](https://drive.google.com/file/d/1ROS5Y9MkUJszY9LHJnl0AXY4IQVt_0Kd/view?usp=sharing) — a walkthrough recording of the full Budget Tracker system (login, transactions, budgets, AI chat, notifications) used to verify the end-to-end test scenarios below.
+**Demo Video:** [https://drive.google.com/file/d/1_q4sdSqufmfxGnCE7WsOOij97Xxfb1hk/view?usp=sharing](https://drive.google.com/file/d/1_q4sdSqufmfxGnCE7WsOOij97Xxfb1hk/view?usp=sharing) — a walkthrough recording of the full Budget Tracker system (login, transactions, budgets, AI chat, notifications) used to verify the end-to-end test scenarios below.
 
 **Member:** Whole team
 
