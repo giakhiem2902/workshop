@@ -9,6 +9,8 @@ chapter: true
 
 # Workshop
 
+**Nhóm:** CCK
+
 Budget Tracker — Hướng dẫn triển khai trên AWS Console. Các bước chi tiết mà nhóm đã thực hiện để xây dựng và triển khai ứng dụng Serverless Budget Tracker trên AWS.
 
 **Website Budget Tracker:** [https://d3ja9nvtyjzo9o.cloudfront.net/](https://d3ja9nvtyjzo9o.cloudfront.net/)
